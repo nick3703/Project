@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "Nick"
 ---
 
 This is a Quarto website.
